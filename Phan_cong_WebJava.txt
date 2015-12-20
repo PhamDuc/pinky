@@ -1,0 +1,13 @@
+﻿2 phần chính
+Quản trị
+- Quản lý category
+- Quản lý quẩn áo
+  + Quản lý ảnh
+  + Quản lý số lượng của từng bộ theo size và màu sắc
+- Quản lý size
+- Quản lý màu sắc
+- Quản lý tài khoản
+* Trang mua bán
+- Các trang mặt hàng như nhau
+- Trang đăng nhập, đăng ký (có thể thêm reset mật khẩu)
+- Trang giỏ hàng
